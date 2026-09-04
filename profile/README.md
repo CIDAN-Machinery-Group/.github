@@ -14,3 +14,6 @@ CIDAN IT Deploys the use of Copilot and other AI tools for tasks such as:
 - Scripting
 - Documentation
 - Aumation Tools
+
+##
+Please contact it-general@cidanmachinery.com for any questions or concerns.
