@@ -1,19 +1,30 @@
-## CIDAN Machinery Internal Tooling
+<p align="center">
+  <img src="../docs/assets/cidan-logo.png" alt="CIDAN logo" width="300" />
+</p>
 
-For CIDAN IT to Manage Tools like:
+# CIDAN Machinery Internal Tooling
 
-- IT Tools -> Main system for managing our systems together in one place.
-- Integrations between systems like Zoho and Jeeves with support for cloud and on prem infra.
-- Quick apps
-- etc.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="28" height="28" />
+</p>
 
-## Agent Notice
+Tools and integrations maintained by CIDAN IT to make everyday work simpler and keep connected systems working together.
 
-CIDAN IT Deploys the use of Copilot and other AI tools for tasks such as:
+## What we build
 
-- Scripting
-- Documentation
-- Aumation Tools
+- Internal applications that bring common IT tasks into one place
+- Integrations between business systems, including Zoho and Jeeves
+- Focused utilities and automation for recurring workflows
+- Shared components and development foundations for new tools
 
-##
-Please contact it-general@cidanmachinery.com for any questions or concerns.
+Each project keeps its purpose, access requirements, and getting-started guidance in its own README. Detailed maintenance instructions live with the relevant repository.
+
+## How we work
+
+CIDAN IT uses GitHub, Copilot, and other AI tools to support scripting, documentation, and automation. Repository-specific guidance and review requirements apply to contributions.
+
+[Technical documentation](../.agents/README.md)
+
+## Help and Support
+
+Looking for help? Please open a ticket with IT: [it-general@cidanmachinery.com](mailto:it-general@cidanmachinery.com).
